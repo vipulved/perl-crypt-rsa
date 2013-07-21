@@ -10,8 +10,6 @@
 ## $Id: RSA.pm,v 1.48 2001/09/25 12:44:55 vipul Exp $
 
 package Crypt::RSA;
-use FindBin qw($Bin);
-use lib "$Bin/../../lib";
 use strict;
 use base 'Class::Loader';
 use base 'Crypt::RSA::Errorhandler';

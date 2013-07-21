@@ -3,6 +3,11 @@
 
 --------------------------------------------------------------------------
 
+1.991                                                         Jul 20, 2013
+
+ * Bug #83303 for Crypt-RSA: [PATCH] insecure library usage in 
+   Crypt::RSA with FindBin
+
 
 1.98                                                          Jul 08, 2008
 
